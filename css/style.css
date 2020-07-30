@@ -1,0 +1,33 @@
+body{
+	background-color: #778899;
+}
+
+
+#main{
+	background-color: #abcabc;
+	width: 70vw;
+	height: 60vh;
+	margin: auto;
+	margin-top: 8%;
+	text-align: center;
+	padding: 20px 0;
+}
+
+h1{
+	margin-bottom: 100px;
+}
+
+
+#value_display{
+	height: 30px;
+	background-color: ghostwhite;
+	width: 150px;
+	margin: auto;
+	margin-bottom: 100px;
+}
+
+button{
+	padding: 20px 30px;
+	border-radius: 10px;
+	cursor: pointer;
+}
